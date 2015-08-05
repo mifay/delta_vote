@@ -1,0 +1,420 @@
+	<StyleMap id="delta0to3_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#delta0to3_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#delta0to3_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="delta0to3_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>3700aa00</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3700aa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="delta0to3_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>3700aa00</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3700aa00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="delta4to6_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#delta4to6_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#delta4to6_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="delta4to6_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>6900aa00</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6900aa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="delta4to6_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>6900aa00</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6900aa00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="delta7to9_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#delta7to9_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#delta7to9_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="delta7to9_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>9b00aa00</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>9b00aa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="delta7to9_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>9b00aa00</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>9b00aa00</color>
+		</PolyStyle>
+	</Style>   
+	<StyleMap id="delta10to12_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#delta10to12_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#delta10to12_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="delta10to12_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cd00aa00</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>cd00aa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="delta10to12_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cd00aa00</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>cd00aa00</color>
+		</PolyStyle>
+	</Style> 
+	<StyleMap id="delta13plus_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#delta13plus_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#delta13plus_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="delta13plus_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00aa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="delta13plus_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00aa00</color>
+		</PolyStyle>
+	</Style> 
+	<StyleMap id="negativedelta0to3_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#negativedelta0to3_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#negativedelta0to3_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="negativedelta0to3_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>370000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>370000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="negativedelta0to3_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>370000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>370000ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="negativedelta4to6_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#negativedelta4to6_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#negativedelta4to6_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="negativedelta4to6_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>690000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>690000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="negativedelta4to6_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>690000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>690000ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="negativedelta7to9_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#negativedelta7to9_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#negativedelta7to9_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="negativedelta7to9_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>9b0000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>9b0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="negativedelta7to9_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>9b0000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>9b0000ff</color>
+		</PolyStyle>
+	</Style>   
+	<StyleMap id="negativedelta10to12_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#negativedelta10to12_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#negativedelta10to12_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="negativedelta10to12_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cd0000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>cd0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="negativedelta10to12_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cd0000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>cd0000ff</color>
+		</PolyStyle>
+	</Style> 
+	<StyleMap id="negativedelta13plus_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#negativedelta13plus_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#negativedelta13plus_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="negativedelta13plus_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="negativedelta13plus_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style> 
